@@ -21,7 +21,7 @@ With this applicaion, user can:
 ## 📺 Demo
 
 
-[Click here for walk through video]
+[Click here for walk through video] (assets\demo video.mp4)
 ## 🛠 Technologies 
 
 **Runtime:** Node.js
