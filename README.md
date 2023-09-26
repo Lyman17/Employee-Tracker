@@ -21,7 +21,7 @@ With this applicaion, user can:
 ## 📺 Demo
 
 
-[Click here for walk through video](https://user-images.githubusercontent.com/112605297/218927199-f4fce049-907c-447e-aa58-7154347dbe35.mov)
+[Click here for walk through video]
 ## 🛠 Technologies 
 
 **Runtime:** Node.js
