@@ -20,8 +20,9 @@ With this applicaion, user can:
 
 ## 📺 Demo
 
+Walk Through video located in assets folder
 
-[Click here for walk through video] (assets\demo video.mp4)
+
 ## 🛠 Technologies 
 
 **Runtime:** Node.js
