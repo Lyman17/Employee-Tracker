@@ -84,7 +84,8 @@ To run the application:
 ```
 node index.js
 ```
-
+## Credit
+Help on this project provided by MXU4321 - Full Stack Web Developer
 
 ## Badges
 
