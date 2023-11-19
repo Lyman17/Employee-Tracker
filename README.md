@@ -20,8 +20,10 @@ With this applicaion, user can:
 
 ## 📺 Demo
 
-Walk Through video located in assets folder
+Walk Through demo video located in assets folder
 
+Link to Google Drive Walkthrough video:
+https://drive.google.com/file/d/1A6eri07mIMarEpjnr9pkwmcVIEAvZt7D/view?usp=sharing
 
 ## 🛠 Technologies 
 
@@ -85,8 +87,9 @@ To run the application:
 node index.js
 ```
 ## Credit
-Help on this project provided by MXU4321 - Full Stack Web Developer
-
+Help on this project provided by:
+ MXU4321 - Full Stack Web Developer
+ Monica Pong - Full Stack Web Developer
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
